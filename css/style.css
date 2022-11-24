@@ -1,0 +1,12 @@
+html {
+    overflow: hidden;
+}
+
+.element {
+    position: absolute;
+    font-family: "Lucida Console", sans-serif;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none
+}
